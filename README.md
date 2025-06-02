@@ -19,19 +19,20 @@ Biological invasions are widespread in human-dominated landscapes, often resulti
 
 ## Group Members
 
-- Daijiang Li: Brief description or role within the group.
-- Benjamin Baiser: Brief description or role within the group.
-- Marc Cadotte:
-- Luke Potgieter:
-- Myla Aronson:
-- Nicholas Sookhan:
-- Elizabeth Carlen:
-- Jianguo (Jingle) Wu:
-- Michelle Thompson:
-- Peilei Fan:
-- Angelina Grigoryeva:
-- Rafael Zenni:
-- Karen Seto:
+- Daijiang Li: Working group leader, Assistant Professor, University of Arizona
+- Myla Aronson: Working group co-leader, Assistant Professor, Rutgers University 
+- Benjamin Baiser: Working group co-leader, Associate Professor, University of Florida
+- Marc Cadotte: Working group co-leader, Professor, University of Toronto
+- Luke Potgieter: Working group co-leader, Postdoc, Stellenbosch University 
+- Elizabeth Carlen: Partcipant, Postdoc, Washington University at St. Louis
+- Peilei Fan: Partcipant, Professor, Tufts University
+- Angelina Grigoryeva: Partcipant, Assistant Professor, University of Toronto
+- Nicholas Sookhan: Partcipant, Postdoc, University of Toronto
+- Karen Seto: Partcipant, Professor, Yale University
+- Michelle Thompson: Partcipant, Director, San Diego Natural History Museum
+- Jianguo (Jingle) Wu: Partcipant, Professor, Arizona State University
+- Rafael Zenni: Partcipant, Professor, Federal University of Lavras
+
 
 ## Repository Structure
 
