@@ -19,7 +19,7 @@ Biological invasions are widespread in human-dominated landscapes, often resulti
 
 ## Group Members
 
-- Daijiang Li: Working group leader, Assistant Professor, University of Arizona
+- Daijiang Li: Working group leader, Assistant Professor, University of Arizona  
 - Myla Aronson: Working group co-leader, Assistant Professor, Rutgers University 
 - Benjamin Baiser: Working group co-leader, Associate Professor, University of Florida
 - Marc Cadotte: Working group co-leader, Professor, University of Toronto
@@ -69,4 +69,4 @@ Biological invasions are widespread in human-dominated landscapes, often resulti
 - **Review and Merge Workflow**: Document your process for reviewing and merging changes.
 - **Establish Communication Channels**: Set up channels like Slack or Discord for discussions.
 
-Remember, the goal is to make your repository clear, accessible, and useful for all current and future members of your working group. Happy researching!
+Remember, the goal is to make your repository clear, accessible, and useful for all current and future members of your working group. Happy researching!!
