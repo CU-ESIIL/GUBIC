@@ -27,6 +27,7 @@ Biological invasions are widespread in human-dominated landscapes, often resulti
 - Elizabeth Carlen: Partcipant, Postdoc, Washington University at St. Louis
 - Peilei Fan: Partcipant, Professor, Tufts University
 - Angelina Grigoryeva: Partcipant, Assistant Professor, University of Toronto
+- Ming Ni: Postdoc, University of Wisconsin-Madison
 - Nicholas Sookhan: Partcipant, Postdoc, University of Toronto
 - Karen Seto: Partcipant, Professor, Yale University
 - Michelle Thompson: Partcipant, Director, San Diego Natural History Museum
